@@ -1,0 +1,103 @@
+﻿using System;
+using System.Windows;
+using Microsoft.Phone.Controls;
+using System.IO.IsolatedStorage;
+
+namespace MyPicasa
+{
+    public partial class MainPage : PhoneApplicationPage
+    {
+        private IsolatedStorageSettings appSettings;
+        private const string emailKey = "emailKey";
+        private const string passwordKey = "passwordKey";
+        private const string savepasswordKey = "savepasswordKey";
+        private const string usernameKey = "usernameKey";
+
+        private string username = "";
+        private string email = "";
+        private string password = "";
+        private bool savepassword = false;
+
+        public MainPage()
+        {
+            InitializeComponent();
+            appSettings = IsolatedStorageSettings.ApplicationSettings;
+        }
+
+        protected override void OnNavigatedTo(System.Windows.Navigation.NavigationEventArgs e)
+        {
+            // load and show saved email from isolated storage
+            if (appSettings.Contains(emailKey))
+            {
+                email = (string)appSettings[emailKey];
+            }
+            EmailTextBox.Text = email;
+
+            // load password from isolated storage
+            if (appSettings.Contains(passwordKey))
+            {
+                password = (string)appSettings[passwordKey];
+            }
+
+            // username from isolated storage
+            if (appSettings.Contains(usernameKey))
+            {
+                username = (string)appSettings[usernameKey];
+            }
+            UsernameTextBox.Text = username;
+
+            // show password if selected to save
+            if (appSettings.Contains(savepasswordKey))
+            {
+                string savepass = (string)appSettings[savepasswordKey];
+                if (savepass == "true")
+                {
+                    savepassword = true;
+                    PasswordTextBox.Password = password;
+                }
+                else
+                {
+                    savepassword = false;
+                    PasswordTextBox.Password = "";
+                }
+                SavePasswordCheckBox.IsChecked = savepassword;
+            }
+        }
+
+        protected override void OnNavigatedFrom(System.Windows.Navigation.NavigationEventArgs e)
+        {
+            // add email to isolated storage
+            appSettings.Remove(emailKey);
+            appSettings.Add(emailKey, email);
+
+            // add passwordkey and password to isolated storage
+            appSettings.Remove(savepasswordKey);
+            appSettings.Remove(passwordKey);
+
+            // add username to isolated storage
+            appSettings.Remove(usernameKey);
+            appSettings.Add(usernameKey, username);
+
+            if (SavePasswordCheckBox.IsChecked==true)
+            {
+                appSettings.Add(savepasswordKey, "true");
+                appSettings.Add(passwordKey, password);
+            }
+            else
+            {
+                appSettings.Add(savepasswordKey, "false");
+                appSettings.Add(passwordKey, password);
+            }
+        }
+
+        private void LoginButton_Click(object sender, RoutedEventArgs e)
+        {
+            username = UsernameTextBox.Text;
+            email = EmailTextBox.Text;
+            password = PasswordTextBox.Password;
+            savepassword = (bool)SavePasswordCheckBox.IsChecked;
+            this.NavigationService.Navigate(new Uri("/AlbumsPage.xaml", UriKind.Relative));
+        }
+
+    }
+}

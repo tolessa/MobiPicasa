@@ -1,0 +1,286 @@
+D:\workspaces\WindowsPhone\MyPicasa\MyPicasa\Bin\Debug\ApplicationIcon.png
+D:\workspaces\WindowsPhone\MyPicasa\MyPicasa\Bin\Debug\Background.png
+D:\workspaces\WindowsPhone\MyPicasa\MyPicasa\Bin\Debug\MyPicasa.dll
+D:\workspaces\WindowsPhone\MyPicasa\MyPicasa\Bin\Debug\MyPicasa.pdb
+D:\workspaces\WindowsPhone\MyPicasa\MyPicasa\Bin\Debug\AppManifest.xaml
+D:\workspaces\WindowsPhone\MyPicasa\MyPicasa\Bin\Debug\MyPicasa.xap
+D:\workspaces\WindowsPhone\MyPicasa\MyPicasa\obj\Debug\ResolveAssemblyReference.cache
+D:\workspaces\WindowsPhone\MyPicasa\MyPicasa\obj\Debug\App.g.i.cs
+D:\workspaces\WindowsPhone\MyPicasa\MyPicasa\obj\Debug\MainPage.g.i.cs
+D:\workspaces\WindowsPhone\MyPicasa\MyPicasa\obj\Debug\MyPicasa.g.resources
+D:\workspaces\WindowsPhone\MyPicasa\MyPicasa\obj\Debug\MyPicasa.dll
+D:\workspaces\WindowsPhone\MyPicasa\MyPicasa\obj\Debug\MyPicasa.pdb
+D:\workspaces\WindowsPhone\MyPicasa\MyPicasa\obj\Debug\XapCacheFile.xml
+D:\workspaces\WindowsPhone\MyPicasa\MyPicasa\Bin\Debug\Microsoft.Phone.Controls.Toolkit.dll
+D:\workspaces\WindowsPhone\MyPicasa\MyPicasa\Bin\Debug\Microsoft.Phone.Controls.dll
+D:\workspaces\WindowsPhone\MyPicasa\MyPicasa\Bin\Debug\Microsoft.Phone.Controls.Toolkit.pdb
+D:\workspaces\WindowsPhone\MyPicasa\MyPicasa\Bin\Debug\Microsoft.Phone.Controls.Toolkit.xml
+D:\workspaces\WindowsPhone\MyPicasa\MyPicasa\Bin\Debug\Microsoft.Phone.Controls.xml
+D:\workspaces\WindowsPhone\MyPicasa\MyPicasa\Bin\Debug\PhonePerformance.dll
+D:\workspaces\WindowsPhone\MyPicasa\MyPicasa\obj\Debug\AlbumPage.g.i.cs
+D:\workspaces\WindowsPhone\MyPicasa\MyPicasa\obj\Debug\ImagesPage.g.i.cs
+D:\workspaces\WindowsPhone\MyPicasa\MyPicasa\obj\Debug\ProgressBarWithText\ProgressBarWithText.g.i.cs
+D:\workspaces\WindowsPhone\MyPicasa\MyPicasa\obj\Debug\AlbumsPage.g.i.cs
+C:\Users\Biks\Desktop\PTMMyPicasa\MyPicasa\MyPicasa\Bin\Debug\ApplicationIcon.png
+C:\Users\Biks\Desktop\PTMMyPicasa\MyPicasa\MyPicasa\Bin\Debug\Background.png
+C:\Users\Biks\Desktop\PTMMyPicasa\MyPicasa\MyPicasa\Bin\Debug\MyPicasa.dll
+C:\Users\Biks\Desktop\PTMMyPicasa\MyPicasa\MyPicasa\Bin\Debug\MyPicasa.pdb
+C:\Users\Biks\Desktop\PTMMyPicasa\MyPicasa\MyPicasa\Bin\Debug\AppManifest.xaml
+C:\Users\Biks\Desktop\PTMMyPicasa\MyPicasa\MyPicasa\Bin\Debug\MyPicasa.xap
+C:\Users\Biks\Desktop\PTMMyPicasa\MyPicasa\MyPicasa\Bin\Debug\PhonePerformance.dll
+C:\Users\Biks\Desktop\PTMMyPicasa\MyPicasa\MyPicasa\Bin\Debug\Microsoft.Phone.Controls.dll
+C:\Users\Biks\Desktop\PTMMyPicasa\MyPicasa\MyPicasa\Bin\Debug\Microsoft.Phone.Controls.Toolkit.pdb
+C:\Users\Biks\Desktop\PTMMyPicasa\MyPicasa\MyPicasa\Bin\Debug\Microsoft.Phone.Controls.Toolkit.xml
+C:\Users\Biks\Desktop\PTMMyPicasa\MyPicasa\MyPicasa\Bin\Debug\Microsoft.Phone.Controls.xml
+C:\Users\Biks\Desktop\PTMMyPicasa\MyPicasa\MyPicasa\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\Biks\Desktop\PTMMyPicasa\MyPicasa\MyPicasa\obj\Debug\App.g.i.cs
+C:\Users\Biks\Desktop\PTMMyPicasa\MyPicasa\MyPicasa\obj\Debug\AlbumPage.g.i.cs
+C:\Users\Biks\Desktop\PTMMyPicasa\MyPicasa\MyPicasa\obj\Debug\AlbumsPage.g.i.cs
+C:\Users\Biks\Desktop\PTMMyPicasa\MyPicasa\MyPicasa\obj\Debug\ImagesPage.g.i.cs
+C:\Users\Biks\Desktop\PTMMyPicasa\MyPicasa\MyPicasa\obj\Debug\MainPage.g.i.cs
+C:\Users\Biks\Desktop\PTMMyPicasa\MyPicasa\MyPicasa\obj\Debug\ProgressBarWithText\ProgressBarWithText.g.i.cs
+C:\Users\Biks\Desktop\PTMMyPicasa\MyPicasa\MyPicasa\obj\Debug\MyPicasa.g.resources
+C:\Users\Biks\Desktop\PTMMyPicasa\MyPicasa\MyPicasa\obj\Debug\MyPicasa.dll
+C:\Users\Biks\Desktop\PTMMyPicasa\MyPicasa\MyPicasa\obj\Debug\MyPicasa.pdb
+C:\Users\Biks\Desktop\PTMMyPicasa\MyPicasa\MyPicasa\obj\Debug\XapCacheFile.xml
+C:\Users\Biks\Desktop\PTMMyPicasa\MyPicasa\MyPicasa\Bin\Debug\Facebook.dll
+C:\Users\Biks\Desktop\PTMMyPicasa\MyPicasa\MyPicasa\Bin\Debug\Facebook.xml
+C:\Users\Biks\Documents\MyPicasa\MyPicasa\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\Biks\Documents\MyPicasa\MyPicasa\obj\Debug\App.g.i.cs
+C:\Users\Biks\Documents\MyPicasa\MyPicasa\obj\Debug\AlbumPage.g.i.cs
+C:\Users\Biks\Documents\MyPicasa\MyPicasa\obj\Debug\AlbumsPage.g.i.cs
+C:\Users\Biks\Documents\MyPicasa\MyPicasa\obj\Debug\ImagesPage.g.i.cs
+C:\Users\Biks\Documents\MyPicasa\MyPicasa\obj\Debug\MainPage.g.i.cs
+C:\Users\Biks\Documents\MyPicasa\MyPicasa\obj\Debug\ProgressBarWithText\ProgressBarWithText.g.i.cs
+C:\Users\Biks\Documents\MyPicasa\MyPicasa\obj\Debug\MyPicasa.g.resources
+C:\Users\Biks\Documents\MyPicasa\MyPicasa\obj\Debug\MyPicasa.dll
+C:\Users\Biks\Documents\MyPicasa\MyPicasa\Bin\Debug\ApplicationIcon.png
+C:\Users\Biks\Documents\MyPicasa\MyPicasa\Bin\Debug\Background.png
+C:\Users\Biks\Documents\MyPicasa\MyPicasa\Bin\Debug\MyPicasa.dll
+C:\Users\Biks\Documents\MyPicasa\MyPicasa\Bin\Debug\MyPicasa.pdb
+C:\Users\Biks\Documents\MyPicasa\MyPicasa\Bin\Debug\AppManifest.xaml
+C:\Users\Biks\Documents\MyPicasa\MyPicasa\Bin\Debug\MyPicasa.xap
+C:\Users\Biks\Documents\MyPicasa\MyPicasa\Bin\Debug\Facebook.dll
+C:\Users\Biks\Documents\MyPicasa\MyPicasa\Bin\Debug\PhonePerformance.dll
+C:\Users\Biks\Documents\MyPicasa\MyPicasa\Bin\Debug\Microsoft.Phone.Controls.dll
+C:\Users\Biks\Documents\MyPicasa\MyPicasa\Bin\Debug\Facebook.xml
+C:\Users\Biks\Documents\MyPicasa\MyPicasa\Bin\Debug\Microsoft.Phone.Controls.Toolkit.pdb
+C:\Users\Biks\Documents\MyPicasa\MyPicasa\Bin\Debug\Microsoft.Phone.Controls.Toolkit.xml
+C:\Users\Biks\Documents\MyPicasa\MyPicasa\Bin\Debug\Microsoft.Phone.Controls.xml
+C:\Users\Biks\Documents\MyPicasa\MyPicasa\obj\Debug\MyPicasa.pdb
+C:\Users\Biks\Documents\MyPicasa\MyPicasa\obj\Debug\XapCacheFile.xml
+C:\picasa2\MyPicasa\MyPicasa\Bin\Debug\ApplicationIcon.png
+C:\picasa2\MyPicasa\MyPicasa\Bin\Debug\Background.png
+C:\picasa2\MyPicasa\MyPicasa\Bin\Debug\MyPicasa.dll
+C:\picasa2\MyPicasa\MyPicasa\Bin\Debug\MyPicasa.pdb
+C:\picasa2\MyPicasa\MyPicasa\Bin\Debug\AppManifest.xaml
+C:\picasa2\MyPicasa\MyPicasa\Bin\Debug\MyPicasa.xap
+C:\picasa2\MyPicasa\MyPicasa\Bin\Debug\Facebook.dll
+C:\picasa2\MyPicasa\MyPicasa\Bin\Debug\PhonePerformance.dll
+C:\picasa2\MyPicasa\MyPicasa\Bin\Debug\Microsoft.Phone.Controls.dll
+C:\picasa2\MyPicasa\MyPicasa\Bin\Debug\Facebook.xml
+C:\picasa2\MyPicasa\MyPicasa\Bin\Debug\Microsoft.Phone.Controls.Toolkit.pdb
+C:\picasa2\MyPicasa\MyPicasa\Bin\Debug\Microsoft.Phone.Controls.Toolkit.xml
+C:\picasa2\MyPicasa\MyPicasa\Bin\Debug\Microsoft.Phone.Controls.xml
+C:\picasa2\MyPicasa\MyPicasa\obj\Debug\ResolveAssemblyReference.cache
+C:\picasa2\MyPicasa\MyPicasa\obj\Debug\App.g.i.cs
+C:\picasa2\MyPicasa\MyPicasa\obj\Debug\AlbumPage.g.i.cs
+C:\picasa2\MyPicasa\MyPicasa\obj\Debug\AlbumsPage.g.i.cs
+C:\picasa2\MyPicasa\MyPicasa\obj\Debug\ImagesPage.g.i.cs
+C:\picasa2\MyPicasa\MyPicasa\obj\Debug\MainPage.g.i.cs
+C:\picasa2\MyPicasa\MyPicasa\obj\Debug\ProgressBarWithText\ProgressBarWithText.g.i.cs
+C:\picasa2\MyPicasa\MyPicasa\obj\Debug\MyPicasa.g.resources
+C:\picasa2\MyPicasa\MyPicasa\obj\Debug\MyPicasa.dll
+C:\picasa2\MyPicasa\MyPicasa\obj\Debug\MyPicasa.pdb
+C:\picasa2\MyPicasa\MyPicasa\obj\Debug\XapCacheFile.xml
+C:\Users\Biks\Documents\picasa2\MyPicasa\MyPicasa\Bin\Debug\ApplicationIcon.png
+C:\Users\Biks\Documents\picasa2\MyPicasa\MyPicasa\Bin\Debug\Background.png
+C:\Users\Biks\Documents\picasa2\MyPicasa\MyPicasa\Bin\Debug\MyPicasa.dll
+C:\Users\Biks\Documents\picasa2\MyPicasa\MyPicasa\Bin\Debug\MyPicasa.pdb
+C:\Users\Biks\Documents\picasa2\MyPicasa\MyPicasa\Bin\Debug\AppManifest.xaml
+C:\Users\Biks\Documents\picasa2\MyPicasa\MyPicasa\Bin\Debug\MyPicasa.xap
+C:\Users\Biks\Documents\picasa2\MyPicasa\MyPicasa\Bin\Debug\Facebook.dll
+C:\Users\Biks\Documents\picasa2\MyPicasa\MyPicasa\Bin\Debug\PhonePerformance.dll
+C:\Users\Biks\Documents\picasa2\MyPicasa\MyPicasa\Bin\Debug\Microsoft.Phone.Controls.dll
+C:\Users\Biks\Documents\picasa2\MyPicasa\MyPicasa\Bin\Debug\Facebook.xml
+C:\Users\Biks\Documents\picasa2\MyPicasa\MyPicasa\Bin\Debug\Microsoft.Phone.Controls.Toolkit.pdb
+C:\Users\Biks\Documents\picasa2\MyPicasa\MyPicasa\Bin\Debug\Microsoft.Phone.Controls.Toolkit.xml
+C:\Users\Biks\Documents\picasa2\MyPicasa\MyPicasa\Bin\Debug\Microsoft.Phone.Controls.xml
+C:\Users\Biks\Documents\picasa2\MyPicasa\MyPicasa\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\Biks\Documents\picasa2\MyPicasa\MyPicasa\obj\Debug\App.g.i.cs
+C:\Users\Biks\Documents\picasa2\MyPicasa\MyPicasa\obj\Debug\AlbumPage.g.i.cs
+C:\Users\Biks\Documents\picasa2\MyPicasa\MyPicasa\obj\Debug\AlbumsPage.g.i.cs
+C:\Users\Biks\Documents\picasa2\MyPicasa\MyPicasa\obj\Debug\ImagesPage.g.i.cs
+C:\Users\Biks\Documents\picasa2\MyPicasa\MyPicasa\obj\Debug\MainPage.g.i.cs
+C:\Users\Biks\Documents\picasa2\MyPicasa\MyPicasa\obj\Debug\ProgressBarWithText\ProgressBarWithText.g.i.cs
+C:\Users\Biks\Documents\picasa2\MyPicasa\MyPicasa\obj\Debug\MyPicasa.g.resources
+C:\Users\Biks\Documents\picasa2\MyPicasa\MyPicasa\obj\Debug\MyPicasa.dll
+C:\Users\Biks\Documents\picasa2\MyPicasa\MyPicasa\obj\Debug\MyPicasa.pdb
+C:\Users\Biks\Documents\picasa2\MyPicasa\MyPicasa\obj\Debug\XapCacheFile.xml
+C:\Users\Biks\Documents\picasa2\MyPicasa\MyPicasa\obj\Debug\TakePicture.g.i.cs
+C:\Windows phone project\MobiPicasa\MyPicasa\MyPicasa\Bin\Debug\ApplicationIcon.png
+C:\Windows phone project\MobiPicasa\MyPicasa\MyPicasa\Bin\Debug\Background.png
+C:\Windows phone project\MobiPicasa\MyPicasa\MyPicasa\Bin\Debug\AppManifest.xaml
+C:\Windows phone project\MobiPicasa\MyPicasa\MyPicasa\Bin\Debug\Facebook.dll
+C:\Windows phone project\MobiPicasa\MyPicasa\MyPicasa\Bin\Debug\PhonePerformance.dll
+C:\Windows phone project\MobiPicasa\MyPicasa\MyPicasa\Bin\Debug\Microsoft.Phone.Controls.dll
+C:\Windows phone project\MobiPicasa\MyPicasa\MyPicasa\Bin\Debug\Facebook.xml
+C:\Windows phone project\MobiPicasa\MyPicasa\MyPicasa\Bin\Debug\Microsoft.Phone.Controls.Toolkit.pdb
+C:\Windows phone project\MobiPicasa\MyPicasa\MyPicasa\Bin\Debug\Microsoft.Phone.Controls.Toolkit.xml
+C:\Windows phone project\MobiPicasa\MyPicasa\MyPicasa\Bin\Debug\Microsoft.Phone.Controls.xml
+C:\Windows phone project\MobiPicasa\MyPicasa\MyPicasa\obj\Debug\ResolveAssemblyReference.cache
+C:\Windows phone project\MobiPicasa\MyPicasa\MyPicasa\obj\Debug\App.g.i.cs
+C:\Windows phone project\MobiPicasa\MyPicasa\MyPicasa\obj\Debug\AlbumPage.g.i.cs
+C:\Windows phone project\MobiPicasa\MyPicasa\MyPicasa\obj\Debug\AlbumsPage.g.i.cs
+C:\Windows phone project\MobiPicasa\MyPicasa\MyPicasa\obj\Debug\ImagesPage.g.i.cs
+C:\Windows phone project\MobiPicasa\MyPicasa\MyPicasa\obj\Debug\MainPage.g.i.cs
+C:\Windows phone project\MobiPicasa\MyPicasa\MyPicasa\obj\Debug\ProgressBarWithText\ProgressBarWithText.g.i.cs
+C:\Windows phone project\MobiPicasa\MyPicasa\MyPicasa\obj\Debug\TakePicture.g.i.cs
+C:\Windows phone project\MobiPicasa\MyPicasa\MyPicasa\obj\Debug\XapCacheFile.xml
+C:\Windows phone project\MobiPicasa\MyPicasa\MyPicasa\Bin\Debug\MyPicasa.xap
+C:\Windows phone project\MobiPicasa\MyPicasa\MyPicasa\Bin\Debug\MyPicasa.dll
+C:\Windows phone project\MobiPicasa\MyPicasa\MyPicasa\Bin\Debug\MyPicasa.pdb
+C:\Windows phone project\MobiPicasa\MyPicasa\MyPicasa\obj\Debug\MyPicasa.g.resources
+C:\Windows phone project\MobiPicasa\MyPicasa\MyPicasa\obj\Debug\MyPicasa.dll
+C:\Windows phone project\MobiPicasa\MyPicasa\MyPicasa\obj\Debug\MyPicasa.pdb
+C:\Windows phone project\MobiPicasa (1)\MobiPicasa\MyPicasa\MyPicasa\Bin\Debug\ApplicationIcon.png
+C:\Windows phone project\MobiPicasa (1)\MobiPicasa\MyPicasa\MyPicasa\Bin\Debug\Background.png
+C:\Windows phone project\MobiPicasa (1)\MobiPicasa\MyPicasa\MyPicasa\Bin\Debug\MyPicasa.dll
+C:\Windows phone project\MobiPicasa (1)\MobiPicasa\MyPicasa\MyPicasa\Bin\Debug\MyPicasa.pdb
+C:\Windows phone project\MobiPicasa (1)\MobiPicasa\MyPicasa\MyPicasa\Bin\Debug\AppManifest.xaml
+C:\Windows phone project\MobiPicasa (1)\MobiPicasa\MyPicasa\MyPicasa\Bin\Debug\MyPicasa.xap
+C:\Windows phone project\MobiPicasa (1)\MobiPicasa\MyPicasa\MyPicasa\Bin\Debug\Facebook.dll
+C:\Windows phone project\MobiPicasa (1)\MobiPicasa\MyPicasa\MyPicasa\Bin\Debug\Microsoft.Phone.Controls.Toolkit.dll
+C:\Windows phone project\MobiPicasa (1)\MobiPicasa\MyPicasa\MyPicasa\Bin\Debug\PhonePerformance.dll
+C:\Windows phone project\MobiPicasa (1)\MobiPicasa\MyPicasa\MyPicasa\Bin\Debug\Microsoft.Phone.Controls.dll
+C:\Windows phone project\MobiPicasa (1)\MobiPicasa\MyPicasa\MyPicasa\Bin\Debug\Facebook.xml
+C:\Windows phone project\MobiPicasa (1)\MobiPicasa\MyPicasa\MyPicasa\Bin\Debug\Microsoft.Phone.Controls.Toolkit.pdb
+C:\Windows phone project\MobiPicasa (1)\MobiPicasa\MyPicasa\MyPicasa\Bin\Debug\Microsoft.Phone.Controls.Toolkit.xml
+C:\Windows phone project\MobiPicasa (1)\MobiPicasa\MyPicasa\MyPicasa\Bin\Debug\Microsoft.Phone.Controls.xml
+C:\Windows phone project\MobiPicasa (1)\MobiPicasa\MyPicasa\MyPicasa\obj\Debug\ResolveAssemblyReference.cache
+C:\Windows phone project\MobiPicasa (1)\MobiPicasa\MyPicasa\MyPicasa\obj\Debug\App.g.i.cs
+C:\Windows phone project\MobiPicasa (1)\MobiPicasa\MyPicasa\MyPicasa\obj\Debug\AlbumPage.g.i.cs
+C:\Windows phone project\MobiPicasa (1)\MobiPicasa\MyPicasa\MyPicasa\obj\Debug\AlbumsPage.g.i.cs
+C:\Windows phone project\MobiPicasa (1)\MobiPicasa\MyPicasa\MyPicasa\obj\Debug\ImagesPage.g.i.cs
+C:\Windows phone project\MobiPicasa (1)\MobiPicasa\MyPicasa\MyPicasa\obj\Debug\MainPage.g.i.cs
+C:\Windows phone project\MobiPicasa (1)\MobiPicasa\MyPicasa\MyPicasa\obj\Debug\ProgressBarWithText\ProgressBarWithText.g.i.cs
+C:\Windows phone project\MobiPicasa (1)\MobiPicasa\MyPicasa\MyPicasa\obj\Debug\TakePicture.g.i.cs
+C:\Windows phone project\MobiPicasa (1)\MobiPicasa\MyPicasa\MyPicasa\obj\Debug\MyPicasa.g.resources
+C:\Windows phone project\MobiPicasa (1)\MobiPicasa\MyPicasa\MyPicasa\obj\Debug\MyPicasa.dll
+C:\Windows phone project\MobiPicasa (1)\MobiPicasa\MyPicasa\MyPicasa\obj\Debug\MyPicasa.pdb
+C:\Windows phone project\MobiPicasa (1)\MobiPicasa\MyPicasa\MyPicasa\obj\Debug\XapCacheFile.xml
+C:\Users\Biks\Documents\MobiPicasa\MyPicasa\MyPicasa\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\Biks\Documents\MobiPicasa\MyPicasa\MyPicasa\obj\Debug\App.g.i.cs
+C:\Users\Biks\Documents\MobiPicasa\MyPicasa\MyPicasa\obj\Debug\AlbumPage.g.i.cs
+C:\Users\Biks\Documents\MobiPicasa\MyPicasa\MyPicasa\obj\Debug\AlbumsPage.g.i.cs
+C:\Users\Biks\Documents\MobiPicasa\MyPicasa\MyPicasa\obj\Debug\ImagesPage.g.i.cs
+C:\Users\Biks\Documents\MobiPicasa\MyPicasa\MyPicasa\obj\Debug\MainPage.g.i.cs
+C:\Users\Biks\Documents\MobiPicasa\MyPicasa\MyPicasa\obj\Debug\PhotoProcess.g.i.cs
+C:\Users\Biks\Documents\MobiPicasa\MyPicasa\MyPicasa\obj\Debug\ProgressBarWithText\ProgressBarWithText.g.i.cs
+C:\Users\Biks\Documents\MobiPicasa\MyPicasa\MyPicasa\obj\Debug\TakePicture.g.i.cs
+C:\Users\Biks\Documents\MobiPicasa\MyPicasa\MyPicasa\Bin\Debug\ApplicationIcon.png
+C:\Users\Biks\Documents\MobiPicasa\MyPicasa\MyPicasa\Bin\Debug\Background.png
+C:\Users\Biks\Documents\MobiPicasa\MyPicasa\MyPicasa\Bin\Debug\AppManifest.xaml
+C:\Users\Biks\Documents\MobiPicasa\MyPicasa\MyPicasa\Bin\Debug\ExifLib.dll
+C:\Users\Biks\Documents\MobiPicasa\MyPicasa\MyPicasa\Bin\Debug\Facebook.dll
+C:\Users\Biks\Documents\MobiPicasa\MyPicasa\MyPicasa\Bin\Debug\PhonePerformance.dll
+C:\Users\Biks\Documents\MobiPicasa\MyPicasa\MyPicasa\Bin\Debug\Microsoft.Phone.Controls.dll
+C:\Users\Biks\Documents\MobiPicasa\MyPicasa\MyPicasa\Bin\Debug\Facebook.xml
+C:\Users\Biks\Documents\MobiPicasa\MyPicasa\MyPicasa\Bin\Debug\Microsoft.Phone.Controls.xml
+C:\Users\Biks\Documents\MobiPicasa\MyPicasa\MyPicasa\obj\Debug\XapCacheFile.xml
+C:\Users\Biks\Documents\MobiPicasa\MyPicasa\MyPicasa\Bin\Debug\PhoneTasks.dll
+C:\Users\Biks\Documents\MobiPicasa\MyPicasa\MyPicasa\Bin\Debug\PhoneTasks.pdb
+C:\Users\Biks\Documents\MobiPicasa\MyPicasa\MyPicasa\obj\Debug\HelpPage.g.i.cs
+C:\Users\Biks\Documents\MobiPicasa\MyPicasa\MyPicasa\Bin\Debug\MyPicasa.dll
+C:\Users\Biks\Documents\MobiPicasa\MyPicasa\MyPicasa\Bin\Debug\MyPicasa.pdb
+C:\Users\Biks\Documents\MobiPicasa\MyPicasa\MyPicasa\obj\Debug\MyPicasa.g.resources
+C:\Users\Biks\Documents\MobiPicasa\MyPicasa\MyPicasa\obj\Debug\MyPicasa.dll
+C:\Users\Biks\Documents\MobiPicasa\MyPicasa\MyPicasa\obj\Debug\MyPicasa.pdb
+C:\Users\Biks\Documents\MobiPicasa\MyPicasa\MyPicasa\Bin\Debug\MyPicasa.xap
+C:\Users\Biks\Documents\MobiPicasa\MyPicasa\MyPicasa\obj\Debug\PopupSplash.g.i.cs
+C:\Users\Biks\Documents\MobiPicasa\Mobipicasa\MyPicasa\Bin\Debug\ApplicationIcon.png
+C:\Users\Biks\Documents\MobiPicasa\Mobipicasa\MyPicasa\Bin\Debug\Background.png
+C:\Users\Biks\Documents\MobiPicasa\Mobipicasa\MyPicasa\Bin\Debug\MyPicasa.dll
+C:\Users\Biks\Documents\MobiPicasa\Mobipicasa\MyPicasa\Bin\Debug\MyPicasa.pdb
+C:\Users\Biks\Documents\MobiPicasa\Mobipicasa\MyPicasa\Bin\Debug\AppManifest.xaml
+C:\Users\Biks\Documents\MobiPicasa\Mobipicasa\MyPicasa\Bin\Debug\MyPicasa.xap
+C:\Users\Biks\Documents\MobiPicasa\Mobipicasa\MyPicasa\Bin\Debug\ExifLib.dll
+C:\Users\Biks\Documents\MobiPicasa\Mobipicasa\MyPicasa\Bin\Debug\Facebook.dll
+C:\Users\Biks\Documents\MobiPicasa\Mobipicasa\MyPicasa\Bin\Debug\PhonePerformance.dll
+C:\Users\Biks\Documents\MobiPicasa\Mobipicasa\MyPicasa\Bin\Debug\PhoneTasks.dll
+C:\Users\Biks\Documents\MobiPicasa\Mobipicasa\MyPicasa\Bin\Debug\Microsoft.Phone.Controls.dll
+C:\Users\Biks\Documents\MobiPicasa\Mobipicasa\MyPicasa\Bin\Debug\Facebook.xml
+C:\Users\Biks\Documents\MobiPicasa\Mobipicasa\MyPicasa\Bin\Debug\PhoneTasks.pdb
+C:\Users\Biks\Documents\MobiPicasa\Mobipicasa\MyPicasa\Bin\Debug\Microsoft.Phone.Controls.xml
+C:\Users\Biks\Documents\MobiPicasa\Mobipicasa\MyPicasa\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\Biks\Documents\MobiPicasa\Mobipicasa\MyPicasa\obj\Debug\App.g.i.cs
+C:\Users\Biks\Documents\MobiPicasa\Mobipicasa\MyPicasa\obj\Debug\AlbumPage.g.i.cs
+C:\Users\Biks\Documents\MobiPicasa\Mobipicasa\MyPicasa\obj\Debug\AlbumsPage.g.i.cs
+C:\Users\Biks\Documents\MobiPicasa\Mobipicasa\MyPicasa\obj\Debug\HelpPage.g.i.cs
+C:\Users\Biks\Documents\MobiPicasa\Mobipicasa\MyPicasa\obj\Debug\ImagesPage.g.i.cs
+C:\Users\Biks\Documents\MobiPicasa\Mobipicasa\MyPicasa\obj\Debug\MainPage.g.i.cs
+C:\Users\Biks\Documents\MobiPicasa\Mobipicasa\MyPicasa\obj\Debug\PhotoProcess.g.i.cs
+C:\Users\Biks\Documents\MobiPicasa\Mobipicasa\MyPicasa\obj\Debug\PopupSplash.g.i.cs
+C:\Users\Biks\Documents\MobiPicasa\Mobipicasa\MyPicasa\obj\Debug\ProgressBarWithText\ProgressBarWithText.g.i.cs
+C:\Users\Biks\Documents\MobiPicasa\Mobipicasa\MyPicasa\obj\Debug\MyPicasa.g.resources
+C:\Users\Biks\Documents\MobiPicasa\Mobipicasa\MyPicasa\obj\Debug\MyPicasa.dll
+C:\Users\Biks\Documents\MobiPicasa\Mobipicasa\MyPicasa\obj\Debug\MyPicasa.pdb
+C:\Users\Biks\Documents\MobiPicasa\Mobipicasa\MyPicasa\obj\Debug\XapCacheFile.xml
+C:\Users\biko\Desktop\MobiPicasa\Mobipicasa\MyPicasa\Bin\Debug\ApplicationIcon.png
+C:\Users\biko\Desktop\MobiPicasa\Mobipicasa\MyPicasa\Bin\Debug\Background.png
+C:\Users\biko\Desktop\MobiPicasa\Mobipicasa\MyPicasa\Bin\Debug\MyPicasa.dll
+C:\Users\biko\Desktop\MobiPicasa\Mobipicasa\MyPicasa\Bin\Debug\MyPicasa.pdb
+C:\Users\biko\Desktop\MobiPicasa\Mobipicasa\MyPicasa\Bin\Debug\AppManifest.xaml
+C:\Users\biko\Desktop\MobiPicasa\Mobipicasa\MyPicasa\Bin\Debug\MyPicasa.xap
+C:\Users\biko\Desktop\MobiPicasa\Mobipicasa\MyPicasa\Bin\Debug\ExifLib.dll
+C:\Users\biko\Desktop\MobiPicasa\Mobipicasa\MyPicasa\Bin\Debug\Facebook.dll
+C:\Users\biko\Desktop\MobiPicasa\Mobipicasa\MyPicasa\Bin\Debug\PhonePerformance.dll
+C:\Users\biko\Desktop\MobiPicasa\Mobipicasa\MyPicasa\Bin\Debug\Microsoft.Phone.Controls.dll
+C:\Users\biko\Desktop\MobiPicasa\Mobipicasa\MyPicasa\Bin\Debug\Facebook.xml
+C:\Users\biko\Desktop\MobiPicasa\Mobipicasa\MyPicasa\Bin\Debug\PhoneTasks.pdb
+C:\Users\biko\Desktop\MobiPicasa\Mobipicasa\MyPicasa\Bin\Debug\Microsoft.Phone.Controls.xml
+C:\Users\biko\Desktop\MobiPicasa\Mobipicasa\MyPicasa\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\biko\Desktop\MobiPicasa\Mobipicasa\MyPicasa\obj\Debug\App.g.i.cs
+C:\Users\biko\Desktop\MobiPicasa\Mobipicasa\MyPicasa\obj\Debug\AlbumPage.g.i.cs
+C:\Users\biko\Desktop\MobiPicasa\Mobipicasa\MyPicasa\obj\Debug\AlbumsPage.g.i.cs
+C:\Users\biko\Desktop\MobiPicasa\Mobipicasa\MyPicasa\obj\Debug\HelpPage.g.i.cs
+C:\Users\biko\Desktop\MobiPicasa\Mobipicasa\MyPicasa\obj\Debug\ImagesPage.g.i.cs
+C:\Users\biko\Desktop\MobiPicasa\Mobipicasa\MyPicasa\obj\Debug\MainPage.g.i.cs
+C:\Users\biko\Desktop\MobiPicasa\Mobipicasa\MyPicasa\obj\Debug\PhotoProcess.g.i.cs
+C:\Users\biko\Desktop\MobiPicasa\Mobipicasa\MyPicasa\obj\Debug\PopupSplash.g.i.cs
+C:\Users\biko\Desktop\MobiPicasa\Mobipicasa\MyPicasa\obj\Debug\ProgressBarWithText\ProgressBarWithText.g.i.cs
+C:\Users\biko\Desktop\MobiPicasa\Mobipicasa\MyPicasa\obj\Debug\MyPicasa.g.resources
+C:\Users\biko\Desktop\MobiPicasa\Mobipicasa\MyPicasa\obj\Debug\MyPicasa.dll
+C:\Users\biko\Desktop\MobiPicasa\Mobipicasa\MyPicasa\obj\Debug\MyPicasa.pdb
+C:\Users\biko\Desktop\MobiPicasa\Mobipicasa\MyPicasa\obj\Debug\XapCacheFile.xml
+C:\Win7 Project\MobiPicasa\Mobipicasa\MyPicasa\Bin\Debug\ApplicationIcon.png
+C:\Win7 Project\MobiPicasa\Mobipicasa\MyPicasa\Bin\Debug\Background.png
+C:\Win7 Project\MobiPicasa\Mobipicasa\MyPicasa\Bin\Debug\MyPicasa.dll
+C:\Win7 Project\MobiPicasa\Mobipicasa\MyPicasa\Bin\Debug\MyPicasa.pdb
+C:\Win7 Project\MobiPicasa\Mobipicasa\MyPicasa\Bin\Debug\AppManifest.xaml
+C:\Win7 Project\MobiPicasa\Mobipicasa\MyPicasa\Bin\Debug\MyPicasa.xap
+C:\Win7 Project\MobiPicasa\Mobipicasa\MyPicasa\Bin\Debug\ExifLib.dll
+C:\Win7 Project\MobiPicasa\Mobipicasa\MyPicasa\Bin\Debug\Facebook.dll
+C:\Win7 Project\MobiPicasa\Mobipicasa\MyPicasa\Bin\Debug\PhonePerformance.dll
+C:\Win7 Project\MobiPicasa\Mobipicasa\MyPicasa\Bin\Debug\Microsoft.Phone.Controls.dll
+C:\Win7 Project\MobiPicasa\Mobipicasa\MyPicasa\Bin\Debug\Facebook.xml
+C:\Win7 Project\MobiPicasa\Mobipicasa\MyPicasa\Bin\Debug\PhoneTasks.pdb
+C:\Win7 Project\MobiPicasa\Mobipicasa\MyPicasa\Bin\Debug\Microsoft.Phone.Controls.xml
+C:\Win7 Project\MobiPicasa\Mobipicasa\MyPicasa\obj\Debug\ResolveAssemblyReference.cache
+C:\Win7 Project\MobiPicasa\Mobipicasa\MyPicasa\obj\Debug\App.g.i.cs
+C:\Win7 Project\MobiPicasa\Mobipicasa\MyPicasa\obj\Debug\AlbumPage.g.i.cs
+C:\Win7 Project\MobiPicasa\Mobipicasa\MyPicasa\obj\Debug\AlbumsPage.g.i.cs
+C:\Win7 Project\MobiPicasa\Mobipicasa\MyPicasa\obj\Debug\HelpPage.g.i.cs
+C:\Win7 Project\MobiPicasa\Mobipicasa\MyPicasa\obj\Debug\ImagesPage.g.i.cs
+C:\Win7 Project\MobiPicasa\Mobipicasa\MyPicasa\obj\Debug\MainPage.g.i.cs
+C:\Win7 Project\MobiPicasa\Mobipicasa\MyPicasa\obj\Debug\PhotoProcess.g.i.cs
+C:\Win7 Project\MobiPicasa\Mobipicasa\MyPicasa\obj\Debug\PopupSplash.g.i.cs
+C:\Win7 Project\MobiPicasa\Mobipicasa\MyPicasa\obj\Debug\ProgressBarWithText\ProgressBarWithText.g.i.cs
+C:\Win7 Project\MobiPicasa\Mobipicasa\MyPicasa\obj\Debug\MyPicasa.g.resources
+C:\Win7 Project\MobiPicasa\Mobipicasa\MyPicasa\obj\Debug\MyPicasa.dll
+C:\Win7 Project\MobiPicasa\Mobipicasa\MyPicasa\obj\Debug\MyPicasa.pdb
+C:\Win7 Project\MobiPicasa\Mobipicasa\MyPicasa\obj\Debug\XapCacheFile.xml
+C:\Win7 Project\MobiPicasa\Mobipicasa\MyPicasa\obj\Debug\MyPicasa.AppResources.resources
+C:\Win7 Project\MobiPicasa\Mobipicasa\MyPicasa\obj\Debug\GenerateResource.read.1.tlog
+C:\Win7 Project\MobiPicasa\Mobipicasa\MyPicasa\obj\Debug\GenerateResource.write.1.tlog
+C:\Win7 Project\MobiPicasa\Mobipicasa\MyPicasa\obj\Debug\MyPicasa.AppResources.Oro.resources
